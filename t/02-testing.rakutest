@@ -1,0 +1,7 @@
+use Test;
+use Playground::Slide;
+use Playground::Slide::Dingle;
+
+pass 1;
+
+done-testing;
