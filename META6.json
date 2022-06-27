@@ -12,7 +12,8 @@
   "test-depends": [],
   "provides": {
     "Playground": "lib/Playground.rakumod",
-    "Playground::Homeslice": "lib/Playground/Homeslice.rakumod"
+    "Playground::Homeslice": "lib/Playground/Homeslice.rakumod",
+    "Playground::Slide::Doopa": "lib/Playground/Slide/Doopa.rakumod"
   },
   "resources": [],
   "license": "Artistic-2.0",
