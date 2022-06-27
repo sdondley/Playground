@@ -9,7 +9,9 @@
   "auth": "zef:sdondley",
   "depends": [],
   "build-depends": [],
-  "test-depends": [],
+  "test-depends": [
+    "Test::Output"
+  ],
   "provides": {
     "Playground": "lib/Playground.rakumod",
     "Playground::Homeslice": "lib/Playground/Homeslice.rakumod",
