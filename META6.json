@@ -1,0 +1,20 @@
+{
+   "test-depends" : [],
+   "tags" : [],
+   "name" : "Playground",
+   "license" : "Artistic-2.0",
+   "build-depends" : [],
+   "perl" : "6.d",
+   "resources" : [],
+   "version" : "0.0.1",
+   "source-url" : "https://github.com/sdondley/Playground.git",
+   "description" : "blah blah blah",
+   "provides" : {
+      "Playground" : "lib/Playground.rakumod"
+   },
+   "depends" : [],
+   "auth" : "zef:sdondley",
+   "authors" : [
+      "Steve Dondley"
+   ]
+}
