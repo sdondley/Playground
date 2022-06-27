@@ -1,6 +1,6 @@
 use Test;
 use Playground;
 
-pass "replace me";
+pass 1;
 
 done-testing;
