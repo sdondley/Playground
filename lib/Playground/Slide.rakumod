@@ -1,2 +1,2 @@
 use v6.d;
-unit module Slide;
+unit module Playground::Slide;
