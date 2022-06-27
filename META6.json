@@ -1,27 +1,21 @@
 {
-  "auth": "zef:sdondley",
+  "name": "Playground",
+  "description": "blah blah blah",
+  "version": "0.0.1",
+  "perl": "6.d",
   "authors": [
     "Steve Dondley"
   ],
-  "build-depends": [
-  ],
-  "depends": [
-  ],
-  "description": "blah blah blah",
-  "license": "Artistic-2.0",
-  "name": "Playground",
-  "perl": "6.d",
+  "auth": "zef:sdondley",
+  "depends": [],
+  "build-depends": [],
+  "test-depends": [],
   "provides": {
     "Playground": "lib/Playground.rakumod",
-    "Playground::Slide": "lib/Playground/Slide.rakumod",
-    "Playground::Slide::Dingle": "lib/Playground/Slide/Dingle.rakumod"
+    "Playground::Homeslice": "lib/Playground/Homeslice.rakumod"
   },
-  "resources": [
-  ],
-  "source-url": "https://github.com/sdondley/Playground.git",
-  "tags": [
-  ],
-  "test-depends": [
-  ],
-  "version": "0.0.1"
+  "resources": [],
+  "license": "Artistic-2.0",
+  "tags": [],
+  "source-url": "https://github.com/sdondley/Playground.git"
 }
