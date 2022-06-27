@@ -1,2 +1,2 @@
 use v6.d;
-unit module Doopa;
+unit module Playground::Slide::Doopa;

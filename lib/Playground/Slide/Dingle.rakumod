@@ -1,5 +1,5 @@
 use v6.d;
-unit module Dingle;
+unit module Playground::Slide::Dingle;
 
 =begin pod
 
