@@ -15,6 +15,8 @@
   "provides": {
     "Playground": "lib/Playground.rakumod",
     "Playground::Homeslice": "lib/Playground/Homeslice.rakumod",
+    "Playground::Slide": "lib/Playground/Slide.rakumod",
+    "Playground::Slide::Dingle": "lib/Playground/Slide/Dingle.rakumod",
     "Playground::Slide::Doopa": "lib/Playground/Slide/Doopa.rakumod"
   },
   "resources": [],
